@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3214834889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8e9b8688eb88d152c4c49042797e6f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be10c4d2901886d3677900d9bc836783
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48b42974319ef4a4ba2aa2bb8f0999ec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefebs/ShowCase.prefab
+Dependencies: []
